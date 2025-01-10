@@ -17,11 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-### Screenshot 1
-![WhatsApp Image 2025-01-10 at 14 21 03](https://github.com/user-attachments/assets/8bda9c1a-2e83-41e5-8b7c-7af70b2c5aab)
-
-### Screenshot 2
-![WhatsApp Image 2025-01-10 at 14 19 34](https://github.com/user-attachments/assets/876d36a0-3afa-4ea4-984f-96e6ab31a64f)
-
-### Screenshot 3
-![WhatsApp Image 2025-01-10 at 14 20 17](https://github.com/user-attachments/assets/96b48292-a6f4-4f94-998e-fa8a2278d36b)
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|--------------|--------------|--------------|
+| ![WhatsApp Image 2025-01-10 at 14 21 03](https://github.com/user-attachments/assets/8bda9c1a-2e83-41e5-8b7c-7af70b2c5aab) | ![WhatsApp Image 2025-01-10 at 14 19 34](https://github.com/user-attachments/assets/876d36a0-3afa-4ea4-984f-96e6ab31a64f) | ![WhatsApp Image 2025-01-10 at 14 20 17](https://github.com/user-attachments/assets/96b48292-a6f4-4f94-998e-fa8a2278d36b) |
